@@ -1,9 +1,4 @@
----
-tags: kids, web design, intro, design principles, color theory
-language: html, css
-level: 1
-type: resources
----
+
 
 ##Design Principles - Color Theory
 Take a look at the resources for color theory below.
