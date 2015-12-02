@@ -15,3 +15,5 @@ Take a look at the resources for color theory below.
 + [Color Calculator](http://www.sessions.edu/color-calculator)
 
 + [Palettab Chrome Extension](http://palettab.com/)
+
+<a href='https://learn.co/lessons/hs-design-principles-color-theory' data-visibility='hidden'>View this lesson on Learn.co</a>
