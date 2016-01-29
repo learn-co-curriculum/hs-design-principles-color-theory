@@ -16,4 +16,4 @@ Take a look at the resources for color theory below.
 
 + [Palettab Chrome Extension](http://palettab.com/)
 
-<a href='https://learn.co/lessons/hs-design-principles-color-theory' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-design-principles-color-theory' title='Design Principles - Color Theory'>Design Principles - Color Theory</a> on Learn.co and start learning to code for free.</p>
